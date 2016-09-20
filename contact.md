@@ -9,7 +9,7 @@ I would love to hear from you. Any query, any suggestion or feedback would be gr
 
 
 
-<form id="contact-form" class="form-horizontal" action="https://getsimpleform.com/messages?form_api_token=b6d4be9b039b666b3311e1ddcbfb577c" method="POST" enctype="multipart/form-data">
+<form id="contact-form" class="form-horizontal" action="https://getsimpleform.com/messages?form_api_token=0df4c20a42f85f2462ed89e4a9c63f15" method="POST" enctype="multipart/form-data">
        <fieldset>
        
             <div class="form-group">
@@ -36,7 +36,7 @@ I would love to hear from you. Any query, any suggestion or feedback would be gr
          <input type="submit" class="btn btn-primary" value="Send" id="submit"/>
          </div>
          </div>
-        <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
+        <input type="hidden" name='redirect_to' value="https://michelcordeiro.github.io/cards/thanks/" />
     </fieldset>  
 </form>
 
