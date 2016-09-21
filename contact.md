@@ -37,7 +37,7 @@ Se quiser entrar em contato para bater um papo é só me mandar uma mensagem.
          <input type="submit" class="btn btn-primary" value="Enviar" id="submit"/>
          </div>
          </div>
-        <input type="hidden" name='redirect_to' value="https://michelcordeiro.github.io/cards/thanks/" />
+        <input type="hidden" name='redirect_to' value="https://michelcordeiro.github.io/thanks/" />
     </fieldset>  
 </form>
 
