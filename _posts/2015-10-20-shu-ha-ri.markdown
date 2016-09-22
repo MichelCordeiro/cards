@@ -1,0 +1,42 @@
+---
+layout: post
+title: Shu Ha Ri
+img: shuhari.jpg
+---
+
+Não é novidade que a filosofia oriental influencia modelos e práticas de gestão no mundo. As artes marciais, por exemplo, ditam ensinamentos que foram difundidos em guerras e ampliados aos cenários competitivos dos negócios.
+
+No ambiente marcial, um Sensei é aquele que treina seu discípulo a sempre buscar a evolução gradativa. Se o seu aprendiz é capaz de fazer 100 movimentos que o levem a exaustão absoluta. O Sensei será aquele que o treinará para atingir o centésimo primeiro movimento, fazendo então com que seu pupilo supere seus limites e atinja um novo estágio, superando sua condição anterior.
+
+Esta prática é o que constantemente encontramos nos projetos. Quantos prazos recebemos que nos pareceram impossíveis ? Quantas metas improváveis não já foram alcançadas ? Quem nunca achou aquele líder de projeto um louco e depois refletiu em como ele era um visionário ?
+
+Equipes de projetos constantemente utilizam boas práticas de desenvolvimento e também estudam diversos modelos, metodologias, frameworks e métodos com o intuito de aplicar em suas organizações o que melhor convém.
+
+Alistair Cockburn, criador da metodologia ágil Crystal e um dos 17 gurus que assinaram o manifesto ágil é um dos grandes disseminadores do conceito oriental oriundo da arte marcial Aikido chamado Shu Ha Ri.
+
+[caption id="attachment_260" align="aligncenter" width="600"]<a href="https://jcodeshell.files.wordpress.com/2015/10/shuhari.jpg" target="_blank"><img class="wp-image-260 size-full" src="https://jcodeshell.files.wordpress.com/2015/10/shuhari.jpg" alt="shuhari" width="600" height="360" /></a> Shu Ha Ri[/caption]
+
+Para entender um pouco melhor sobre este conceito na perspectiva do aikido deixo a vocês um trecho da entrevista com o Sensei Okomura, 8º dan. O Shihan Aikikai Shigenobu Okumura desempenhou um papel significante no desenvolvimento do Aikido no pós-guerra. Nesta primeira de uma entrevista de duas partes, ele fala sobre seu treinamento inicial na Manchuria e suas experiências da guerra, enfatizando a importância do conceito do "Shu, ha, ri".
+<blockquote>
+<p align="justify"><b><span style="font-family:Arial, Helvetica, sans-serif;font-size:small;">Em nossa última entrevista você nos falou sobre "Shu, Ha, Ri." Poderia nos dizer mais sobre essas idéias</span></b></p>
+<p align="justify"><span style="font-family:Arial, Helvetica, sans-serif;font-size:small;">Esses são os três estágios do treinamento, isto é, manter (shu) o kata (forma), quebrar (ha) o kata e afastar-se ou libertar-se (ri) do kata.</span></p>
+<p align="justify"><b><span style="font-family:Arial, Helvetica, sans-serif;font-size:small;">Esses conceitos se aplicavam da mesma forma às tradicionais artes marciais Japonesas? </span></b></p>
+<p align="justify"><span style="font-family:Arial, Helvetica, sans-serif;font-size:small;">Sim. Esses conceitos não se aplicam só às artes marciais como também a todos os ensinamentos no Japão. Eles são os três estágios de qualquer tipo de prática. Eu acho que disse a você dessa última vez, mas um alemão chamado Nietzsche (filósofo Friedrich Nietzsche, 1844-1900) explicou a mente humana usando metáforas e descreveu o primeiro estágio como um camelo, o segundo como o Leão e o último estágio como um bebê. No primeiro estágio, como um camelo, você deve atravessar um deserto durante uns 30 ou 40 dias, sem ter o que comer ou beber. Em outras palavras, é um período severo de testes de perseverança. Esse é o estágio do "shu", de manter a paciência. O próximo estágio, "ha", significa quebrar. O terceiro estágio é para alcançar o estado de ser como um bebê, que é completamente íntegro e puro. Um bebê é perfeitamente livre. As coisas são iguais no ocidente. Entretanto, Nietzsche era tido como ateu no mundo filosófico do ocidente. Não era um cristão. Entretanto, em minha opinião, ele teve um modo de pensar muito oriental. Os termos shu, ha, ri vieram de termos Zen, você sabe. Portanto, o melhor estado é ri, para separar de alguma coisa. Você vive uma vida despreconceituosa. Assim, se você é um iniciante ou está numa classe iniciante, você tem que imitar o kata com precisão. É exigido de você que repita uma forma padrão muitas e muitas vezes, o que é muito duro. Então você passa pelos níveis do Kyu e então para o nível da escala de Dans, quando terá entendido as formas do kata. Aí então é o momento de você trabalhar sua individualidade. Todo mundo, grande, pequeno ou alto, deve exibir individualidade, o que significa uma cisão do que você aprendeu anteriormente. Você continua a fazer isso até cerca do 4o ou 5o Dan. Aí você alcança um nível ainda mais alto, tornando-se verdadeiramente livre. Quando você se movimenta, você pode executar uma técnica sem tê-la pensado em sua mente. Entretanto, no caso da educação na Europa, a individualidade é enfatizada desde o começo. Há poucos casos em que as pessoas começam a aprender com Kata.</span></p>
+</blockquote>
+Fonte: http://www.aikikai.org.br. Confira a entrevista completa <a href="http://www.aikikai.org.br/ent_okomura.html" target="_blank">aqui</a>.
+
+O Shu Ha Ri é um conceito rico da filosofia oriental e tem sua síntese extraída na  avaliação de três níveis: <strong>manter</strong>, <strong>separar</strong> e <strong>transcender</strong>. Pois bem pessoal, agora vamos juntar todas essas informações para nos situarmos em uma análise pela perspectiva do nosso mundo de projetos:
+
+<strong>Shu:</strong> as equipes neste estágio utilizam as técnicas no modelo original, seguem exatamente os preceitos a risca. Adquirem nesta fase a experiência e maturidade necessária para atingir o nível seguinte.
+
+<strong>Ha:</strong> indivíduos nessa fase já possuem conhecimento em mais de um modelo e tendem a experimentar as abordagens buscando o melhor resultado possível em seus projetos. Neste nível temos as aplicações dos modelos híbridos.
+
+<strong>Ri:</strong> No último nível os indivíduos estão em um estágio de maturidade onde são capazes de criar seus próprios modelos e técnicas. Possuem experiência e vivencia que possibilitam aplicar boas práticas criadas baseadas nos sucessos e aprendizados dos projetos vividos.
+
+A filosofia deste conceito busca a evolução de equipes quanto a auto-percepção e também a avaliação de times em uma visão Top Down. Imaginem vocês a desenvolverem equipes que encontram-se no estado Shu até atingirem o Ri. É um longo percurso a ser trilhado possibilitando diversos modelos de desenvolvimento de pessoas quanto a técnicas e habilidades pessoais.
+
+Este conceito é trabalhado de formas diversas e aprofundadas por Alistair em consultorias, cursos e livros aplicados em grandes empresas. Em seu site ele expõe relatos de grandes empresas que adotaram a filosofia.
+
+Espero que tenham ficado curiosos sobre o assunto e que busquem conhecer um pouco mais. Agora que você já está familiarizado com o Shu Ha Ri consegue dizer em qual dos três níveis está ?
+
+Abraço!
