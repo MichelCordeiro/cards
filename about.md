@@ -16,7 +16,7 @@ Também possuo experiência na coordenação de implantação de ERP's utilizand
 
 - Experiência com aplicações usando Scrum, XP, Kanban, FDD, OKR’s, Roadmap, Facilitação, Learning 3.0, Management 3.0, Agile Coach, Dimensões do Produto, Coding Dojo;
 
-####Generalist Stack Technical:
+<h4>Generalist Stack Technical:</h4>
 
 - Developer: Java e frameworks como maven, vraptor, jsf, hibernate, spring, mybatis, entre outros;
 - Tester: TDD e BDD;
@@ -25,7 +25,7 @@ Também possuo experiência na coordenação de implantação de ERP's utilizand
 
 Possuo certificações como: ``CSPO``,  ``CSM``
 
-####Qualificação em:
+<h4>Qualificação em:</h4>
 
 - Marketing Analítico (Coursera)
 -	Resolução de conflitos para representantes de empresas (ENAM/UnB)
