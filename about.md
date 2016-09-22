@@ -12,7 +12,7 @@ Atuo na formação de times ágeis, através de técnicas de coaching e facilita
 
 Também possuo experiência na coordenação de implantação de ERP's utilizando a gestão ágil de projetos e em auditorias e desenhos de processos de negócio.
 
-####Specialist Stack Agile:
+<h4>Specialist Stack Agile:</h4>
 
 - Experiência com aplicações usando Scrum, XP, Kanban, FDD, OKR’s, Roadmap, Facilitação, Learning 3.0, Management 3.0, Agile Coach, Dimensões do Produto, Coding Dojo;
 
@@ -23,7 +23,7 @@ Também possuo experiência na coordenação de implantação de ERP's utilizand
 - DevOps: Jenkins, Sonarqube, Artifactory, Vagrant;
 - Mobile: Android e iOS;
 
-Possuo certificações como: ``CSPO``,  ``CSM``
+Possuo certificações como: [``CSPO``](https://www.scrumalliance.org/certifications/practitioners/cspo-certification),  [``CSM``](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
 
 <h4>Qualificação em:</h4>
 
@@ -35,7 +35,7 @@ Possuo certificações como: ``CSPO``,  ``CSM``
 -	Gerenciamento de Projetos com base no PMBOK 4ª edição (TI Exames)
 -	Instrutor de formação profissional (SENAI-MA)
 
-####Extra:
+<h4>Extra:</h4>
 
 - Tenho atuado como palestrante em eventos sempre que possível;
 - Tenho mantido projetos Open Source no GitHub e contribuindo sempre que possível;

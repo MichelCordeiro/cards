@@ -9,7 +9,7 @@
 title: Michel Cordeiro
 email: pere.cordeiro@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+    Bem-vindo ao meu blog!
   
   
   
@@ -28,7 +28,7 @@ permalink: /:title/
 paginate: 9
 paginate_path: /page:num/
 
-analytics: UA-83512201-1
+analytics: UA-84556164-1
 disqus-shortname: michelcordeiro
 
 #social
@@ -39,8 +39,8 @@ linkedin: https://br.linkedin.com/in/michelcordeiro
 
 #facebook like box
 fb-app-id: 294632780910117
-fb-page-url: https://www.facebook.com/EntusiastaAgile/
-fb-page-title: Entusiasta Agile
+fb-page-url: https://www.facebook.com/agilemaranhao/
+fb-page-title: Agile MA
 
 
 sass:
