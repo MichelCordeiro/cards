@@ -37,13 +37,25 @@ Organize suas demandas em uma planilha simples. Após obter os valores de priori
 |Demanda 5    |3		   |3		  |3			|27					 |
 {: .table .table-striped .table-hover}
 
+Crie sua planilha com o peso para que o possa atribuir. Avalie ou escolha a melhor nomenclatura conforme a sua necessidade. Lembre-se do objetivo da abordagem. Um exemplo.
+
+
+|Peso |Gravidade (impacto)	|Urgência (tempo)  			|Tendência (tendência)       |
+|-----|:--------------------|:--------------------------|:---------------------------|
+|5    |Extremamente Grave	|Precisa de ação imediata   |Irá piorar rapidamente      |
+|4    |Muito Grave      	|É urgente		            |Irá piorar em pouco tempo	 |	
+|3    |Grave 		        |O mais rápido possível		|Irá piorar			         |
+|2    |Pouco Grave 		    |Pouco urgente		        |Irá piorar a longo prazo	 |	
+|1    |Sem Gravidade		|Pode esperar		        |Não irá mudar			     |	
+{: .table .table-striped .table-hover}
+
 
 Excelente PO, já temos nossas prioridade de demandas organizada por importância, e o mais importante é que conseguimos isso alinhados com nossos clientes.
 <h2></h2>
 <h2><strong>Definindo ROI</strong></h2>
 Entramos agora no segundo momento de nossa priorização. Sabemos por onde começar, mas precisamos de mais detalhes sobre as nossas demandas. Vamos levantar alguns épicos com nossos clientes do que eles precisam exatamente. Perceba que não estamos buscando nos aprofundar em detalhes. Estamos otimizando nosso trabalho não realizando esforço desnecessário. Isso é Lean, isso é o princípio ágil:
 <blockquote><strong>Simplicidade: a arte de maximizar a quantidade de trabalho que não precisou ser feito.</strong></blockquote>
-<strong> </strong>Perfeito. Utilizaremos neste momento a técnica do peso relativo. Alinhando junto ao nosso cliente prioridades em função do retorno investido. Não entrarei em grandes detalhes sobre esta técnica pois tem um post abordando somente ela. Para saber como ela funciona com detalhes confira <a href="https://jcodeshell.wordpress.com/2015/11/04/menos-achismo-e-mais-tecnica-priorizacao-pelo-roi/" target="_blank">Aqui</a>...
+<strong> </strong>Perfeito. Utilizaremos neste momento a técnica do peso relativo. Alinhando junto ao nosso cliente prioridades em função do retorno investido. Não entrarei em grandes detalhes sobre esta técnica pois tem um post abordando somente ela. Para saber como ela funciona com detalhes confira <a href="https://michelcordeiro.github.io/menos-achismo-e-mais-tecnica/" target="_blank">Aqui</a>...
 <h2><strong>Definindo as reais necessidades</strong></h2>
 Agora que já sabemos o que é mais importante. Quais desejos trarão maior retorno e deverão ser priorizados, finalmente entraremos nos detalhes e escreveremos as estórias desejadas por nossos clientes.
 
