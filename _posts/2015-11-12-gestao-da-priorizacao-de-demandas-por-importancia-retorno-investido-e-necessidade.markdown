@@ -26,99 +26,18 @@ Peça que cada solicitante justifique cada um dos três fatores referente a sua 
 Esta é uma forma democrática de negociar e sensibilizar a todos quanto as atuais demandas, lembre-se de ter nessa reunião pessoas com entendimento gerencial quanto as necessidades da empresa.
 
 Organize suas demandas em uma planilha simples. Após obter os valores de prioridade, organize do maior para o menor.
-<table>
-<tbody>
-<tr>
-<td width="85"><strong>Demanda</strong></td>
-<td width="85"><strong>Gravidade</strong></td>
-<td width="85"><strong>Urgência</strong></td>
-<td width="85"><strong>Tendência</strong></td>
-<td width="85"><strong>Prioridade(GxUxT)</strong></td>
-</tr>
-<tr>
-<td width="85"><strong>Demanda 1</strong></td>
-<td width="85">5</td>
-<td width="85">3</td>
-<td width="85">4</td>
-<td width="85">60</td>
-</tr>
-<tr>
-<td width="85"><strong>Demanda 2</strong></td>
-<td width="85">3</td>
-<td width="85">2</td>
-<td width="85">2</td>
-<td width="85">12</td>
-</tr>
-<tr>
-<td width="85"><strong>Demanda 3</strong></td>
-<td width="85">4</td>
-<td width="85">3</td>
-<td width="85">1</td>
-<td width="85">12</td>
-</tr>
-<tr>
-<td width="85"><strong>Demanda 4</strong></td>
-<td width="85">4</td>
-<td width="85">5</td>
-<td width="85">4</td>
-<td width="85">80</td>
-</tr>
-<tr>
-<td width="85"><strong>Demanda 5</strong></td>
-<td width="85">3</td>
-<td width="85">3</td>
-<td width="85">3</td>
-<td width="85">27</td>
-</tr>
-</tbody>
-</table>
-Crie sua planilha com o peso para que o possa atribuir. Avalie ou escolha a melhor nomenclatura conforme a sua necessidade. Lembre-se do objetivo da abordagem. Um exemplo:
-<table>
-<tbody>
-<tr>
-<td width="106"><strong>Peso</strong></td>
-<td width="106"><strong>Gravidade</strong>
 
-<strong>(Fator de Impacto)</strong></td>
-<td width="106"><strong>Urgência</strong>
 
-<strong>(Fator de Tempo)</strong></td>
-<td width="106"><strong>Tendência</strong>
+|Demanda      |Gravidade   |Urgência  |Tendência    |Prioridade (GxUxT)  |
+|-------------|:-----------|:---------|:------------|:-------------------|
+|Demanda 1    |5	       |3		  |4            |60              	 | 
+|Demanda 2    |3      	   |2		  |2			|12					 |
+|Demanda 3    |4 		   |3		  |1			|12					 |
+|Demanda 4    |4 		   |5		  |4			|80					 |
+|Demanda 5    |3		   |3		  |3			|27					 |
+{: .table .table-striped .table-hover}
 
-<strong>(Fator de Tendência)</strong></td>
-</tr>
-<tr>
-<td width="106"><strong>5</strong></td>
-<td width="106">Extremamente grave</td>
-<td width="106">Precisa de ação imediata</td>
-<td width="106">Irá piorar rapidamente</td>
-</tr>
-<tr>
-<td width="106"><strong>4</strong></td>
-<td width="106">Muito grave</td>
-<td width="106">É urgente</td>
-<td width="106">Irá piorar em pouco tempo</td>
-</tr>
-<tr>
-<td width="106"><strong>3</strong></td>
-<td width="106">Grave</td>
-<td width="106">O mais rápido possível</td>
-<td width="106">Irá piorar</td>
-</tr>
-<tr>
-<td width="106"><strong>2</strong></td>
-<td width="106">Pouco grave</td>
-<td width="106">Pouco urgente</td>
-<td width="106">Irá piorar a longo prazo</td>
-</tr>
-<tr>
-<td width="106"><strong>1</strong></td>
-<td width="106">Sem gravidade</td>
-<td width="106">Pode esperar</td>
-<td width="106">Não irá mudar</td>
-</tr>
-</tbody>
-</table>
+
 Excelente PO, já temos nossas prioridade de demandas organizada por importância, e o mais importante é que conseguimos isso alinhados com nossos clientes.
 <h2></h2>
 <h2><strong>Definindo ROI</strong></h2>

@@ -12,11 +12,11 @@ Atuo na formação de times ágeis, através de técnicas de coaching e facilita
 
 Também possuo experiência na coordenação de implantação de ERP's utilizando a gestão ágil de projetos e em auditorias e desenhos de processos de negócio.
 
-<h4>Specialist Stack Agile:</h4>
+<h4>Agile Specialist Stack:</h4>
 
 - Experiência com aplicações usando Scrum, XP, Kanban, FDD, OKR’s, Roadmap, Facilitação, Learning 3.0, Management 3.0, Agile Coach, Dimensões do Produto, Coding Dojo;
 
-<h4>Generalist Stack Technical:</h4>
+<h4>Technical Generalist Stack:</h4>
 
 - Developer: Java e frameworks como maven, vraptor, jsf, hibernate, spring, mybatis, entre outros;
 - Tester: TDD e BDD;

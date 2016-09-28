@@ -14,7 +14,7 @@ Equipes de projetos constantemente utilizam boas práticas de desenvolvimento e 
 
 Alistair Cockburn, criador da metodologia ágil Crystal e um dos 17 gurus que assinaram o manifesto ágil é um dos grandes disseminadores do conceito oriental oriundo da arte marcial Aikido chamado Shu Ha Ri.
 
-[caption id="attachment_260" align="aligncenter" width="600"]<a href="https://jcodeshell.files.wordpress.com/2015/10/shuhari.jpg" target="_blank"><img class="wp-image-260 size-full" src="https://jcodeshell.files.wordpress.com/2015/10/shuhari.jpg" alt="shuhari" width="600" height="360" /></a> Shu Ha Ri[/caption]
+<a href="https://jcodeshell.files.wordpress.com/2015/10/shuhari.jpg" target="_blank"><img class="wp-image-260 size-full" src="https://jcodeshell.files.wordpress.com/2015/10/shuhari.jpg" alt="shuhari" width="600" height="360" /></a>
 
 Para entender um pouco melhor sobre este conceito na perspectiva do aikido deixo a vocês um trecho da entrevista com o Sensei Okomura, 8º dan. O Shihan Aikikai Shigenobu Okumura desempenhou um papel significante no desenvolvimento do Aikido no pós-guerra. Nesta primeira de uma entrevista de duas partes, ele fala sobre seu treinamento inicial na Manchuria e suas experiências da guerra, enfatizando a importância do conceito do "Shu, ha, ri".
 <blockquote>
