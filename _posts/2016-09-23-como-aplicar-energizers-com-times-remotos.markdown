@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Como aplicar energizers com times remotos
-img: gamification_energizer.jpg
+img: gamification.jpg
 ---
 
 Tem se tornado cada vez mais comum a existência de times remotos. Pessoas espalhadas pelo país ou pelo mundo trabalhando com os mesmos desafios de times presenciais. Desenvolver produtos, realizar entregas, alinhar projetos. Remoto ou presencial os desafios permanecem os mesmos. Mas e aí ? Será que o tratamento e a facilitação para boas reuniões também são ?
