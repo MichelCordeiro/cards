@@ -17,7 +17,7 @@ Neste blog você vai poder conferir um pouco de:
 
 **``Além de posts bem legais!!!``**
 
-![Michel Cordeiro](/images/readme.png)
+![Michel Cordeiro](/imgs/readme.png)
 
 # License
 MIT License
