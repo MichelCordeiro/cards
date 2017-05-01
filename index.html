@@ -50,6 +50,40 @@ permalink: /
 for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
 mixpanel.init("a9a841b7f3dc0fcdd8d06b0c095c038b");</script><!-- end Mixpanel -->
 
+<script src="//cdn.pushnews.eu/push/ilabspush.min.js" async></script>
+<script type="text/javascript">
+    var _ilabsPushConfig = {
+        optin: {
+            activation: {
+                type: "auto"
+            },
+            "%desktopImage%": "https://ilabs-static.s3.amazonaws.com/push/icon128_pushnews.jpg",
+            "%desktopTxtTitle%": "Fique ligado!",
+            "%desktopTxtBody%": "Receba conteúdos exclusivos para você!",
+            "%desktopTxtButtonNo%": "Não, obrigado",
+            "%desktopTxtButtonYes%": "Eba, quero!"
+        },
+        popup: {
+            name: "solicitacoes",
+            domain: "solicitacoes-ceuma-br.pushnews.eu",
+            appId: "fbac66f4-90d7-426f-bc04-c976960210e0",
+            actionMessage: "quer te enviar notificações:",
+            notificationIcon: "https://ilabs-static.s3.amazonaws.com/push/icon128_pushnews.jpg",
+            notificationTitle: "Exemplo",
+            notificationMessage: "Esta é uma notificação exemplo",
+            caption: "(pode cancelar quando quiser)"
+        },
+        osp: {
+            status: true,
+            activation: {
+                type: "scroll"
+            }
+        }
+    };
+    var IlabsPush = IlabsPush || [];
+    IlabsPush.push(["initHttps", _ilabsPushConfig]);
+</script>
+
     </head>
     <body>
         <div class="content">
